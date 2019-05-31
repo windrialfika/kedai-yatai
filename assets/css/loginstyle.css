@@ -1,0 +1,181 @@
+#footer{
+    padding-top: 10px;
+    width: 100%;
+	left: 0;
+    bottom: 0;
+	font-size: 8pt;
+	color: #FFFFFF;
+    text-align: center;
+	background-color: black;
+    position: fixed;
+}
+#header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+	left: 0;
+    top: 0;
+    text-align: center;
+	background-color: gainsboro;
+    position: fixed;
+    border-bottom: 1px solid rgba(0,0,0,0.5);
+}
+
+.side {
+  width: 20%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  position: fixed;
+  margin-top: 45px;
+}
+
+.side-menu {
+    width: 100%;
+    height: 40px;
+    background-color: darkorange;
+    border-bottom: 1px solid white;
+}
+
+.konten {
+    width: 72%;
+    height: 100%;
+    background-color: transparent;
+    padding-top: 55px;
+    margin-left: 23%;
+}
+
+.pict_adm {
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    -ms-border-radius: 150px;
+    -o-border-radius: 150px;
+    border-radius: 150px;
+    background-color: transparent;
+    margin-top: 50px;
+    margin-left: 31%;
+    border: 2px solid white;
+}
+
+.loginarea {
+	width: 360px;
+	height: 200px;
+    padding-top: 200px;
+	margin: 0 auto;
+}
+
+.formarea {
+	width: 360px;
+	height: auto;
+	right: 0;
+    position: fixed;
+    margin-top: 100px;
+    margin-right: 50px;
+    background-color: transparent;
+}
+
+.bodybg {
+    background-color: gainsboro;
+}
+
+.slide-ose {
+    width: 750px;
+	height: 300px;
+	left: 0;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 8%;
+    background-color: transparent;
+    text-align: center;
+}
+
+.form-menu{
+    padding-top: 12px;
+    padding-bottom: 15px;
+    width: 11%;
+    height: 45px;
+	left: 0;
+    top: 0;
+    text-align: center;
+	background-color: transparent;
+    position: fixed;
+    text-decoration: none;
+}
+
+.form-menu:hover {
+    background-color: darkorange;
+    text-decoration: none;
+    height: 44px;
+    color: white;
+    
+}
+
+.data-pendaftar {
+    margin-top: 100px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.oren {
+    background-color: darkorange;
+    color: white;
+}
+
+.thcol {
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+.jumboview {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.menu-dashboard{
+    padding-top: 12px;
+    padding-bottom: 15px;
+    width: 11%;
+    height: 45px;
+    top: 0;
+    text-align: center;
+	background-color: transparent;
+    position: fixed;
+    text-decoration: none;
+}
+
+.menu-dashboard:hover {
+    background-color: darkorange;
+    text-decoration: none;
+    height: 44px;
+    color: white;
+    
+}
+
+.opt {
+    width: 20%;
+    height: 40px;
+    background-color: #FF9900;
+    position: fixed;
+    border-bottom: 2px solid white;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 16;
+    padding-top: 5px;
+    margin-top: 30px;
+    border-top: 2px solid white;
+    text-decoration: none;
+}
+.opt:hover {
+    background-color: white;
+    color: #FF9900;
+    text-decoration: none;
+}
+
+form-presensi {
+    left: 200px;
+}
